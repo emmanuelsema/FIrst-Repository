@@ -1,5 +1,5 @@
 # FIrst-Repository
-This is week 13 homework
+This is week 13 homework - a comprehensive project that describes in details exploits used on targeted systems, how they were exploited, and how to defend aganist such attacks.
 
 The depployment of the Virtual Machine can be used to generate a live Elk server on Azure. Below is a list of what was deployed along with their individual Ip address. 
 ## Automated ELK Stack Deployment
